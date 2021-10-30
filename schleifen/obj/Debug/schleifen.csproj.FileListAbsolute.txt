@@ -5,3 +5,10 @@ C:\Users\41797\OneDrive\Benedict\Modul 403\schleifen\bin\Debug\schleifen.exe
 C:\Users\41797\OneDrive\Benedict\Modul 403\schleifen\bin\Debug\schleifen.pdb
 C:\Users\41797\OneDrive\Benedict\Modul 403\schleifen\obj\Debug\schleifen.exe
 C:\Users\41797\OneDrive\Benedict\Modul 403\schleifen\obj\Debug\schleifen.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\schleifen\bin\Debug\schleifen.exe.config
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\schleifen\bin\Debug\schleifen.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\schleifen\bin\Debug\schleifen.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\schleifen\obj\Debug\schleifen.csproj.AssemblyReference.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\schleifen\obj\Debug\schleifen.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\schleifen\obj\Debug\schleifen.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\schleifen\obj\Debug\schleifen.pdb

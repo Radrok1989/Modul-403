@@ -37,22 +37,32 @@ namespace schleifen
             Console.ReadKey(); */
 
             /*Aufgabe 4
-            for (int i = 19; i >= 1; i -= 2)
+            for (int i = 20; i >= 0; i--)
             {
-                Console.WriteLine(i);
+                if (i % 2 == 1)
+                    {
+                    Console.WriteLine(i);
+                } 
             }
             Console.ReadKey(); */
 
-            /* Aufgabe 5
-            for (int i = 3; i<=50; i+=3)
+            /*Aufgabe 5
+            for (int i = 0; i <= 50; i += 3)
             {
-                Console.WriteLine(i);
+                if (i == 0) 
+                {
+                    continue;
+                }
+                else
+                {
+                    Console.WriteLine("\t"+i);
+                } 
             }
             Console.ReadKey(); */
 
 
-            /* Aufgabe 6
-            for (int i = 0; i <= 20; i += )
+             /*Aufgabe 6
+            for (int i = 0; i <= 20; i ++)
             {
                 if (i == 6 || i == 16)
                 {
@@ -60,7 +70,7 @@ namespace schleifen
                 }
                 else
                 {
-                    Console.WriteLine(i);
+                    Console.Write("\t"+i);
                 }
                 
             }
@@ -68,7 +78,7 @@ namespace schleifen
             Console.ReadKey();*/
 
 
-            /*Aufgabe 7 
+            //Aufgabe 7 
            int a = 0;
            for (int i = 0; i <= 20; i++)
            {
@@ -76,7 +86,7 @@ namespace schleifen
 
            }
            Console.WriteLine(a);
-           Console.ReadKey();*/
+           Console.ReadKey();
 
             /* Aufgabe 8
             int a = 0;
