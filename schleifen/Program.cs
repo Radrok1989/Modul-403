@@ -78,7 +78,7 @@ namespace schleifen
             Console.ReadKey();*/
 
 
-            //Aufgabe 7 
+            /*Aufgabe 7 
            int a = 0;
            for (int i = 0; i <= 20; i++)
            {
@@ -86,13 +86,13 @@ namespace schleifen
 
            }
            Console.WriteLine(a);
-           Console.ReadKey();
+           Console.ReadKey();*/
 
             /* Aufgabe 8
             int a = 0;
             for (int i = 0; i <= 20; i+=2)
             {
-                a = a + i;
+                a += i;
                 
             }
             Console.WriteLine(a);
@@ -110,10 +110,10 @@ namespace schleifen
 
 
             /* Aufgabe 10
-            int a = 1;
+             int a = 1;
             for (int i = 1; i <= 10; i++)
             {
-                a = a * i;
+                a *= i;
                 Console.WriteLine(a);
             }
             Console.WriteLine(a);
@@ -121,16 +121,33 @@ namespace schleifen
 
 
             /* Aufgabe 11
-            int a = 0;
-            Console.WriteLine("Geben sie eine Zahl für x ein.");
-            int x = Convert.ToInt32(Console.ReadLine());
-
-            for (int i = 1; i <= x; i++)
+            try
             {
-                a = a + (i * i);
-                
+                for (int i=1; i <=3;i++)
+                {
+                    Console.WriteLine("Bitte eine Zahl von 0-10 eingeben");
+                    int x = Convert.ToInt32(Console.ReadLine());
+                    if (x >=0 && x<=10)
+                    {
+                        int qs = 0;
+                        for(int j = 0; j <= x; j++)
+                        {
+                            qs += j * j;
+                        }
+                        Console.WriteLine($"Die Quadratsumme von 1-{x}={qs}");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Falsche Eingabe Motherfucker");
+                    }
+                    
+                }
             }
-            Console.WriteLine(a);
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            
             Console.ReadKey();*/
 
             /* Aufgabe 12
