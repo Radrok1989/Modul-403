@@ -1,0 +1,7 @@
+C:\Users\41797\OneDrive\Benedict\Modul 403\if-else\obj\Debug\if-else.csproj.AssemblyReference.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\if-else\obj\Debug\if-else.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\if-else\bin\Debug\if-else.exe.config
+C:\Users\41797\OneDrive\Benedict\Modul 403\if-else\bin\Debug\if-else.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\if-else\bin\Debug\if-else.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\if-else\obj\Debug\if-else.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\if-else\obj\Debug\if-else.pdb
