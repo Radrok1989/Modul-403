@@ -61,21 +61,21 @@ namespace schleifen
             Console.ReadKey(); */
 
 
-             /*Aufgabe 6
-            for (int i = 0; i <= 20; i ++)
-            {
-                if (i == 6 || i == 16)
-                {
-                    continue;
-                }
-                else
-                {
-                    Console.Write("\t"+i);
-                }
-                
-            }
-            
-            Console.ReadKey();*/
+            /*Aufgabe 6
+           for (int i = 0; i <= 20; i ++)
+           {
+               if (i == 6 || i == 16)
+               {
+                   continue;
+               }
+               else
+               {
+                   Console.Write("\t"+i);
+               }
+
+           }
+
+           Console.ReadKey();*/
 
 
             /*Aufgabe 7 
@@ -151,37 +151,91 @@ namespace schleifen
             Console.ReadKey();*/
 
             /* Aufgabe 12
-            double b = 0;
-            for (double i = 1; i <= 10; i++)
+            double b=0;
+            try
             {
-                Console.WriteLine("Geben sie eine Zahl ein.");
-                double a = Convert.ToInt32(Console.ReadLine());
-                b += a;
-                if (i==10)
-
+                for (int i = 1; i <= 10; i++)
                 {
-                    Console.WriteLine($"Der Durchschnitt beträgt {b / i}.");
+                    Console.WriteLine("Geben Sie die {0}te Zahl ein.",i);
+                    double a = Convert.ToInt32(Console.ReadLine());
+                    b += a;
+                    if (i == 10)
 
+                    {
+                        Console.WriteLine($"Der Durchschnitt beträgt {b / i}.");
+
+                    }
                 }
             }
-
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
             Console.ReadKey();*/
+
+            /*Aufgabe 13
+
+            try
+            {
+                double x = 0; double max = 0; double min = 0; double su = 0 ;
+
+            for (int i = 1;i<=5;i++)
+                {
+                    Console.WriteLine("Geben Sie die {0}te Zahl ein.", i);
+                    x = Convert.ToDouble(Console.ReadLine());
+                    
+                    if (i == 1)
+                    {
+                        max = x; min = x;
+                    }
+                    
+                    if (x > max)
+                    {
+                        max = x;
+
+                    }
+
+                    if (x < min)
+                    {
+                        min = x;
+                    }
+
+                    su += x;
+
+                    
+                }
+                Console.WriteLine($"Max ist {max} und Min ist {min} und der Durchschnitt ist {su/5}");
+                Console.ReadKey();
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }*/
 
 
             /* Aufgabe 16
             Console.WriteLine("Geben sie eine Zahl zwischen 1-20 ein.");
             long x = Convert.ToInt32(Console.ReadLine());
             long a = 1;
-            for (long i = 1; i <= x; i++)
+            if (x >= 1 && <=20)
             {
-                a *= i;
-                if (i==x)
+                for (long i = 1; i <= x; i++)
                 {
-                    Console.WriteLine($"Die Fakultät beträgt {a}");
+                    a *= i;
+                    if (i == x)
+                    {
+                        Console.WriteLine($"Die Fakultät beträgt {a}");
+                    }
                 }
 
             }
+            else
+            {
+                Console.WriteLine("Falsche Eingabe")
+            }
             Console.ReadKey();*/
+
+
 
 
             /*Aufgabe 17
@@ -189,16 +243,16 @@ namespace schleifen
 
             int x = Convert.ToInt32(Console.ReadLine());
             int y = Convert.ToInt32(Console.ReadLine());
-            int a = 0;
+            
 
             if (y > x)
             {
                 for (int i = x; i <= y; i++)
                 {
-                    a += i;
+                    x += i;
                     if (i==y)
                     {
-                        Console.WriteLine($"Die Summe von {x} bis {y} ist {a}");
+                        Console.WriteLine($"Die Summe ist {x}");
                     }
                 }
             }
@@ -207,10 +261,10 @@ namespace schleifen
             {
                 for (int i = y; i <= x; i++)
                 {
-                    a += i;
+                    y += i;
                     if (i == x)
                     {
-                        Console.WriteLine($"Die Summe von {y} bis {x} ist {a}");
+                        Console.WriteLine($"Die Summe ist {y}");
                     }
                 }
             }
@@ -226,7 +280,7 @@ namespace schleifen
             int g = 14;
             for (int i = 5; i <= 5; i--)
             {
-                
+
 
                 Console.WriteLine($"Leben : {i}");
 
@@ -236,17 +290,17 @@ namespace schleifen
                 {
                     Console.WriteLine(" Du hast alle deine Leben verspielt!");
                     Thread.Sleep(1000);
-                    Console.Clear();
+                    
                     break;
                 }
 
                 else if (insert == g)
                 {
-                    Console.WriteLine("Die Geheimzahl ist {0}. Grauliere du hast gewonnen!",g);
+                    Console.WriteLine("Die Geheimzahl ist {0}. Grauliere du hast gewonnen!", g);
                     Thread.Sleep(1000);
-                    Console.Clear();
-                    break;
                     
+                    break;
+
                 }
                 else if (insert > g)
                 {
@@ -254,7 +308,7 @@ namespace schleifen
                     Thread.Sleep(1000);
                     Console.Clear();
                     continue;
-                   
+
                 }
                 else if (insert < g)
                 {
@@ -262,7 +316,7 @@ namespace schleifen
                     Thread.Sleep(1000);
                     Console.Clear();
                     continue;
-                    
+
                 }
                 else
                 {
@@ -270,8 +324,10 @@ namespace schleifen
                     Thread.Sleep(1000);
                     Console.Clear();
                     continue;
-                    
+
                 }
+            }
+
                 Console.ReadKey();*/
 
             /* Aufgabe 20
@@ -283,16 +339,50 @@ namespace schleifen
                 {
                     if (i==10 && b==10)
                     {
-                        Thread.Sleep(3000);
+                        
                         break;
                     }
-
+                    Console.WriteLine("\n ___________________ \n");
                     i = 1;
                     b++;
                 }
             }
 
             Console.ReadKey();*/
+
+
+            /* Aufgabe 21
+
+             for (int i =1; i <= 4; i++)
+             {
+                 Console.Write("\t");
+                 for (int j = 1; j <= i; j++ )
+                 {
+                     Console.Write("*");
+                 }
+                 Console.WriteLine();
+             }
+
+             Console.ReadKey();*/
+
+            /*Aufgabe 22
+
+            for (int i = 1; i <=4; i++)
+            {
+                for (int j = 1; j <=4-i; j++)
+                {
+                    Console.Write(" ");
+                    
+                }
+                for (int k = 1; k <= i; k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+                Console.ReadKey();*/
+
+            //Aufgabe 24
 
 
         }
