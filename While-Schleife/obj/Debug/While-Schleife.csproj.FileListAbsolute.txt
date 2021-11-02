@@ -1,0 +1,7 @@
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\While-Schleife\obj\Debug\While-Schleife.csproj.AssemblyReference.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\While-Schleife\obj\Debug\While-Schleife.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\While-Schleife\bin\Debug\While-Schleife.exe.config
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\While-Schleife\bin\Debug\While-Schleife.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\While-Schleife\bin\Debug\While-Schleife.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\While-Schleife\obj\Debug\While-Schleife.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\While-Schleife\obj\Debug\While-Schleife.pdb
