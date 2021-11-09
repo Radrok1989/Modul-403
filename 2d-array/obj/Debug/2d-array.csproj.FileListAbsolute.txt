@@ -1,0 +1,7 @@
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\2d-array\bin\Debug\2d-array.exe.config
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\2d-array\bin\Debug\2d-array.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\2d-array\bin\Debug\2d-array.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\2d-array\obj\Debug\2d-array.csproj.AssemblyReference.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\2d-array\obj\Debug\2d-array.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\2d-array\obj\Debug\2d-array.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\2d-array\obj\Debug\2d-array.pdb
