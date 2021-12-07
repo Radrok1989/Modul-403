@@ -1,0 +1,7 @@
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Wiederholung\bin\Debug\Wiederholung.exe.config
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Wiederholung\bin\Debug\Wiederholung.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Wiederholung\bin\Debug\Wiederholung.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Wiederholung\obj\Debug\Wiederholung.csproj.AssemblyReference.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Wiederholung\obj\Debug\Wiederholung.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Wiederholung\obj\Debug\Wiederholung.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Wiederholung\obj\Debug\Wiederholung.pdb
