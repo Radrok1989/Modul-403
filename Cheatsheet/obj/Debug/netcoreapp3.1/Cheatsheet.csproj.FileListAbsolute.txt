@@ -1,0 +1,14 @@
+C:\Users\41797\source\repos\Cheatsheet\bin\Debug\netcoreapp3.1\Cheatsheet.exe
+C:\Users\41797\source\repos\Cheatsheet\bin\Debug\netcoreapp3.1\Cheatsheet.deps.json
+C:\Users\41797\source\repos\Cheatsheet\bin\Debug\netcoreapp3.1\Cheatsheet.runtimeconfig.json
+C:\Users\41797\source\repos\Cheatsheet\bin\Debug\netcoreapp3.1\Cheatsheet.runtimeconfig.dev.json
+C:\Users\41797\source\repos\Cheatsheet\bin\Debug\netcoreapp3.1\Cheatsheet.dll
+C:\Users\41797\source\repos\Cheatsheet\bin\Debug\netcoreapp3.1\Cheatsheet.pdb
+C:\Users\41797\source\repos\Cheatsheet\obj\Debug\netcoreapp3.1\Cheatsheet.csproj.AssemblyReference.cache
+C:\Users\41797\source\repos\Cheatsheet\obj\Debug\netcoreapp3.1\Cheatsheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41797\source\repos\Cheatsheet\obj\Debug\netcoreapp3.1\Cheatsheet.AssemblyInfoInputs.cache
+C:\Users\41797\source\repos\Cheatsheet\obj\Debug\netcoreapp3.1\Cheatsheet.AssemblyInfo.cs
+C:\Users\41797\source\repos\Cheatsheet\obj\Debug\netcoreapp3.1\Cheatsheet.csproj.CoreCompileInputs.cache
+C:\Users\41797\source\repos\Cheatsheet\obj\Debug\netcoreapp3.1\Cheatsheet.dll
+C:\Users\41797\source\repos\Cheatsheet\obj\Debug\netcoreapp3.1\Cheatsheet.pdb
+C:\Users\41797\source\repos\Cheatsheet\obj\Debug\netcoreapp3.1\Cheatsheet.genruntimeconfig.cache

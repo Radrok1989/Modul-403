@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LaPOpD324kJ/mahZUwqV18g5dpuarmvde0v1wKNN9U33xC+HPLOe7CZq6EUTN1qWlZ64WLB4D3oN8PTP7bk3BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\41797\\source\\repos\\Cheatsheet\\Cheatsheet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\41797\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
