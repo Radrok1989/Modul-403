@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Carlo_Kyburz_Aufgabe_3
+namespace Aufgabe_3
 {
     class Program
     {

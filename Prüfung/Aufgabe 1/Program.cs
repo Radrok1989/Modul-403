@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Carlo_Kaufmann_Aufgabe_1
+namespace Aufgabe_1
 {
     class Program
     {
