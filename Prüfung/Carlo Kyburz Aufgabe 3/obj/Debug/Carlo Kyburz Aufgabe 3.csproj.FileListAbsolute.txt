@@ -1,0 +1,14 @@
+C:\Users\41797\Desktop\Carlo Kyburz Aufgabe 3\bin\Debug\Carlo Kyburz Aufgabe 3.exe.config
+C:\Users\41797\Desktop\Carlo Kyburz Aufgabe 3\bin\Debug\Carlo Kyburz Aufgabe 3.exe
+C:\Users\41797\Desktop\Carlo Kyburz Aufgabe 3\bin\Debug\Carlo Kyburz Aufgabe 3.pdb
+C:\Users\41797\Desktop\Carlo Kyburz Aufgabe 3\obj\Debug\Carlo Kyburz Aufgabe 3.csproj.AssemblyReference.cache
+C:\Users\41797\Desktop\Carlo Kyburz Aufgabe 3\obj\Debug\Carlo Kyburz Aufgabe 3.csproj.CoreCompileInputs.cache
+C:\Users\41797\Desktop\Carlo Kyburz Aufgabe 3\obj\Debug\Carlo Kyburz Aufgabe 3.exe
+C:\Users\41797\Desktop\Carlo Kyburz Aufgabe 3\obj\Debug\Carlo Kyburz Aufgabe 3.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Prüfung Carlo Kyburz\Carlo Kyburz Aufgabe 3\bin\Debug\Carlo Kyburz Aufgabe 3.exe.config
+C:\Users\41797\OneDrive\Benedict\Modul 403\Prüfung Carlo Kyburz\Carlo Kyburz Aufgabe 3\bin\Debug\Carlo Kyburz Aufgabe 3.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Prüfung Carlo Kyburz\Carlo Kyburz Aufgabe 3\bin\Debug\Carlo Kyburz Aufgabe 3.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Prüfung Carlo Kyburz\Carlo Kyburz Aufgabe 3\obj\Debug\Carlo Kyburz Aufgabe 3.csproj.AssemblyReference.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Prüfung Carlo Kyburz\Carlo Kyburz Aufgabe 3\obj\Debug\Carlo Kyburz Aufgabe 3.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Prüfung Carlo Kyburz\Carlo Kyburz Aufgabe 3\obj\Debug\Carlo Kyburz Aufgabe 3.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Prüfung Carlo Kyburz\Carlo Kyburz Aufgabe 3\obj\Debug\Carlo Kyburz Aufgabe 3.pdb

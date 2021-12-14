@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP-403-Carlo-Kyburz-Aufgabe1", "MP-403-Carlo-Kyburz-Aufgabe1.csproj", "{B044D06E-CEFC-48A7-AEE0-788F4E04957E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B044D06E-CEFC-48A7-AEE0-788F4E04957E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B044D06E-CEFC-48A7-AEE0-788F4E04957E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B044D06E-CEFC-48A7-AEE0-788F4E04957E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B044D06E-CEFC-48A7-AEE0-788F4E04957E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15299DEB-9BE5-4B88-97CC-6ACACEC5FD1D}
+	EndGlobalSection
+EndGlobal
