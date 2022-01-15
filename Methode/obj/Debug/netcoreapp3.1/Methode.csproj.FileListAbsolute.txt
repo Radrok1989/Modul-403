@@ -1,0 +1,14 @@
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\bin\Debug\netcoreapp3.1\Methode.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\bin\Debug\netcoreapp3.1\Methode.deps.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\bin\Debug\netcoreapp3.1\Methode.runtimeconfig.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\bin\Debug\netcoreapp3.1\Methode.runtimeconfig.dev.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\bin\Debug\netcoreapp3.1\Methode.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\bin\Debug\netcoreapp3.1\Methode.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\obj\Debug\netcoreapp3.1\Methode.csproj.AssemblyReference.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\obj\Debug\netcoreapp3.1\Methode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\obj\Debug\netcoreapp3.1\Methode.AssemblyInfoInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\obj\Debug\netcoreapp3.1\Methode.AssemblyInfo.cs
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\obj\Debug\netcoreapp3.1\Methode.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\obj\Debug\netcoreapp3.1\Methode.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\obj\Debug\netcoreapp3.1\Methode.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Methode\obj\Debug\netcoreapp3.1\Methode.genruntimeconfig.cache
