@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sortierte listen und dictionaries/1.0.0": {
+        "runtime": {
+          "Sortierte listen und dictionaries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sortierte listen und dictionaries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

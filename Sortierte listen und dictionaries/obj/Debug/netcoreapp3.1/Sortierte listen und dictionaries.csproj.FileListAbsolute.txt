@@ -1,0 +1,14 @@
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\bin\Debug\netcoreapp3.1\Sortierte listen und dictionaries.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\bin\Debug\netcoreapp3.1\Sortierte listen und dictionaries.deps.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\bin\Debug\netcoreapp3.1\Sortierte listen und dictionaries.runtimeconfig.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\bin\Debug\netcoreapp3.1\Sortierte listen und dictionaries.runtimeconfig.dev.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\bin\Debug\netcoreapp3.1\Sortierte listen und dictionaries.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\bin\Debug\netcoreapp3.1\Sortierte listen und dictionaries.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\obj\Debug\netcoreapp3.1\Sortierte listen und dictionaries.csproj.AssemblyReference.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\obj\Debug\netcoreapp3.1\Sortierte listen und dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\obj\Debug\netcoreapp3.1\Sortierte listen und dictionaries.AssemblyInfoInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\obj\Debug\netcoreapp3.1\Sortierte listen und dictionaries.AssemblyInfo.cs
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\obj\Debug\netcoreapp3.1\Sortierte listen und dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\obj\Debug\netcoreapp3.1\Sortierte listen und dictionaries.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\obj\Debug\netcoreapp3.1\Sortierte listen und dictionaries.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Sortierte listen und dictionaries\obj\Debug\netcoreapp3.1\Sortierte listen und dictionaries.genruntimeconfig.cache

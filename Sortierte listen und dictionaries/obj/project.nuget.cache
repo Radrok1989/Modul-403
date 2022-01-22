@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CGPC0ex7fvFlR3DirxL4E4JIJHQEgojhVp1SXkI+GSHQLawxYZ85PumTTm5W0y9FlG4jvUmvawAEQy2M0Di2Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\41797\\OneDrive\\Benedict\\Modul 403\\Modul-403-git\\Modul-403\\Sortierte listen und dictionaries\\Sortierte listen und dictionaries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\41797\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
