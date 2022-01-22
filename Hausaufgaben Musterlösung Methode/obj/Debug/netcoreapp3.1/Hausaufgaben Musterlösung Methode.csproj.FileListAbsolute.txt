@@ -1,0 +1,14 @@
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.deps.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.runtimeconfig.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.runtimeconfig.dev.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.csproj.AssemblyReference.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.AssemblyInfoInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.AssemblyInfo.cs
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Hausaufgaben Musterlösung Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Musterlösung Methode.genruntimeconfig.cache
