@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hausaufgaben Methode/1.0.0": {
+        "runtime": {
+          "Hausaufgaben Methode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hausaufgaben Methode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

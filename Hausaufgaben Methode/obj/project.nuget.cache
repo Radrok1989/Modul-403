@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cTXxYGS3a2vMXSviPB7wG9zwm9DMoIxleWHF8UTzScg5PDa2w5wdnvmQlZ+m94v+4D52D3znq7uq1+Eu294LzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\41797\\source\\repos\\Hausaufgaben Methode\\Hausaufgaben Methode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\41797\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

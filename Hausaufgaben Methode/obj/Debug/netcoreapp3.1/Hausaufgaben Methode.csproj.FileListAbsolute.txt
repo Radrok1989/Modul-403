@@ -1,0 +1,14 @@
+C:\Users\41797\source\repos\Hausaufgaben Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Methode.exe
+C:\Users\41797\source\repos\Hausaufgaben Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Methode.deps.json
+C:\Users\41797\source\repos\Hausaufgaben Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Methode.runtimeconfig.json
+C:\Users\41797\source\repos\Hausaufgaben Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Methode.runtimeconfig.dev.json
+C:\Users\41797\source\repos\Hausaufgaben Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Methode.dll
+C:\Users\41797\source\repos\Hausaufgaben Methode\bin\Debug\netcoreapp3.1\Hausaufgaben Methode.pdb
+C:\Users\41797\source\repos\Hausaufgaben Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Methode.csproj.AssemblyReference.cache
+C:\Users\41797\source\repos\Hausaufgaben Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Methode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41797\source\repos\Hausaufgaben Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Methode.AssemblyInfoInputs.cache
+C:\Users\41797\source\repos\Hausaufgaben Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Methode.AssemblyInfo.cs
+C:\Users\41797\source\repos\Hausaufgaben Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Methode.csproj.CoreCompileInputs.cache
+C:\Users\41797\source\repos\Hausaufgaben Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Methode.dll
+C:\Users\41797\source\repos\Hausaufgaben Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Methode.pdb
+C:\Users\41797\source\repos\Hausaufgaben Methode\obj\Debug\netcoreapp3.1\Hausaufgaben Methode.genruntimeconfig.cache
