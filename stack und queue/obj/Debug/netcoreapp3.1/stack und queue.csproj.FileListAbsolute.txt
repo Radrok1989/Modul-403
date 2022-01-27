@@ -1,0 +1,14 @@
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\bin\Debug\netcoreapp3.1\stack und queue.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\bin\Debug\netcoreapp3.1\stack und queue.deps.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\bin\Debug\netcoreapp3.1\stack und queue.runtimeconfig.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\bin\Debug\netcoreapp3.1\stack und queue.runtimeconfig.dev.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\bin\Debug\netcoreapp3.1\stack und queue.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\bin\Debug\netcoreapp3.1\stack und queue.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\obj\Debug\netcoreapp3.1\stack und queue.csproj.AssemblyReference.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\obj\Debug\netcoreapp3.1\stack und queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\obj\Debug\netcoreapp3.1\stack und queue.AssemblyInfoInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\obj\Debug\netcoreapp3.1\stack und queue.AssemblyInfo.cs
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\obj\Debug\netcoreapp3.1\stack und queue.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\obj\Debug\netcoreapp3.1\stack und queue.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\obj\Debug\netcoreapp3.1\stack und queue.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\stack und queue\obj\Debug\netcoreapp3.1\stack und queue.genruntimeconfig.cache
