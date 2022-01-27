@@ -97,7 +97,23 @@ namespace stack_und_queue
             for (int i = 0; i < 3; i++)
                 warteschlange.Dequeue();
 
+            //Entfernen Sie solange Leute aus der Warteschlange bis sie bei Joker angelangt sind.
 
+            try
+            {
+                while (true)
+                {
+                    if (warteschlange.Peek()=="Joker")
+                    {
+                        break;
+                    }
+                    warteschlange.Dequeue();
+                }
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
             Console.ReadKey();
         }
     }
