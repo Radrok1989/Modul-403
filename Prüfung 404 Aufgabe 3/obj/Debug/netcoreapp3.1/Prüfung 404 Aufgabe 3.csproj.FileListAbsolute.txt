@@ -1,0 +1,13 @@
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\bin\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\bin\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.deps.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\bin\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.runtimeconfig.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\bin\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.runtimeconfig.dev.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\bin\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\bin\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\obj\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\obj\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.AssemblyInfoInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\obj\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.AssemblyInfo.cs
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\obj\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\obj\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\obj\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Prüfung 404 Aufgabe 3\obj\Debug\netcoreapp3.1\Prüfung 404 Aufgabe 3.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KBdPt0U8KID10M5QiBa0N85qTAEncISvzxOwyyyVlV/JAJX2B1uH8NdimXvXFay7WXREbpKPWquHpOTvN3J1Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\41797\\OneDrive\\Benedict\\Modul 403\\Modul-403-git\\Modul-403\\Prüfung 404 Aufgabe 2\\Prüfung 404 Aufgabe 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\41797\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
