@@ -1,7 +1,0 @@
-C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Strings\bin\Debug\Strings.exe.config
-C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Strings\bin\Debug\Strings.exe
-C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Strings\bin\Debug\Strings.pdb
-C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
-C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
-C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Strings\obj\Debug\Strings.exe
-C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\Strings\obj\Debug\Strings.pdb
