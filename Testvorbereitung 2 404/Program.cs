@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Testvorbereitung_2_404
 {
@@ -31,6 +32,7 @@ namespace Testvorbereitung_2_404
                 }
                 Console.WriteLine();
             }*/
+            /*
             // Methode Fakultät siehe unten
             double x = 10; double q = 0;
             Console.WriteLine($"\n Fakultät von {x} = {Fakultaet(x)}");
@@ -39,8 +41,16 @@ namespace Testvorbereitung_2_404
             
             Qflaeche(x,ref q);
             Console.Write($"\n die Quadratfläche von {x} = {q}");
-
-
+            */
+            //Listen
+            List<string> liste = new List<string>() { "Basil", "Ironman", "Batman" };
+            //liste[0] = "Basil";
+            //liste[1] = "Superman";
+            foreach (var x in liste)
+            {
+                Console.Write("\n" + x);
+            }
+            Console.WriteLine($"\n{liste[1]} hat {liste[1].Length} Buchstaben");
             Console.ReadKey();
         }
         static double Fakultaet(double a)
