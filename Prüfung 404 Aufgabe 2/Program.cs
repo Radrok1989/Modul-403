@@ -25,24 +25,7 @@ namespace Prüfung_404_Aufgabe_2
                         switch(choose)
                         { 
                             case 1:
-                                List<string> Nliste = new List<string>();
-                                Console.WriteLine("Bitte geben sie 5 Namen ein");
-                                for (int i = 0;i<5;i++)
-                                {
-                                    string name;
-                                    Console.Write($"\nGeben sie den {i+1}sten Namen ein: ");
-                                    name = Console.ReadLine();
-                                    Nliste.Add(name);
-                                }
-                                foreach (var x in Nliste)
-                                {
-                                    if (x =="Batman")
-                                        Nliste.Remove("Batman");
-                                }
-                                Nliste.Sort();
-                                Nliste.Reverse();
-                                foreach(var x in Nliste)
-                                    Console.WriteLine(x);
+                                
 
                                 break;
 
@@ -69,6 +52,27 @@ namespace Prüfung_404_Aufgabe_2
             {
                 Console.WriteLine(e.Message);
             }
+        }
+        static void case1()
+        {
+            List<string> Nliste = new List<string>();
+            Console.WriteLine("Bitte geben sie 5 Namen ein");
+            for (int i = 0; i < 5; i++)
+            {
+                string name;
+                Console.Write($"\nGeben sie den {i + 1}sten Namen ein: ");
+                name = Console.ReadLine();
+                Nliste.Add(name);
+            }
+            foreach (var x in Nliste)
+            {
+                if (x == "Batman")
+                    Nliste.Remove("Batman");
+            }
+            Nliste.Sort();
+            Nliste.Reverse();
+            foreach (var x in Nliste)
+                Console.WriteLine(x);
         }
     }
 }

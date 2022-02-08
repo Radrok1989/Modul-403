@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\41797\\OneDrive\\Benedict\\Modul 403\\Modul-403-git\\Modul-403\\Prüfung 404 Aufgabe 1\\Prüfung 404 Aufgabe 1.csproj",
+      "projectUniqueName": "C:\\Users\\41797\\OneDrive\\Benedict\\Modul 404\\Prüfung 404 Aufgabe 1\\Prüfung 404 Aufgabe 1.csproj",
       "projectName": "Prüfung 404 Aufgabe 1",
-      "projectPath": "C:\\Users\\41797\\OneDrive\\Benedict\\Modul 403\\Modul-403-git\\Modul-403\\Prüfung 404 Aufgabe 1\\Prüfung 404 Aufgabe 1.csproj",
+      "projectPath": "C:\\Users\\41797\\OneDrive\\Benedict\\Modul 404\\Prüfung 404 Aufgabe 1\\Prüfung 404 Aufgabe 1.csproj",
       "packagesPath": "C:\\Users\\41797\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\41797\\OneDrive\\Benedict\\Modul 403\\Modul-403-git\\Modul-403\\Prüfung 404 Aufgabe 1\\obj\\",
+      "outputPath": "C:\\Users\\41797\\OneDrive\\Benedict\\Modul 404\\Prüfung 404 Aufgabe 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\41797\\AppData\\Roaming\\NuGet\\NuGet.Config",
