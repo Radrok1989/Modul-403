@@ -1,0 +1,14 @@
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\bin\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.exe
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\bin\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.deps.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\bin\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.runtimeconfig.json
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\bin\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\bin\Debug\net6.0\ref\404 Prüfung Aufgabe 2 korrigiert.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\bin\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\obj\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\obj\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.AssemblyInfoInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\obj\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.AssemblyInfo.cs
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\obj\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.csproj.CoreCompileInputs.cache
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\obj\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\obj\Debug\net6.0\ref\404 Prüfung Aufgabe 2 korrigiert.dll
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\obj\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.pdb
+C:\Users\41797\OneDrive\Benedict\Modul 403\Modul-403-git\Modul-403\404 Prüfung Aufgabe 2 korrigiert\404 Prüfung Aufgabe 2 korrigiert\obj\Debug\net6.0\404 Prüfung Aufgabe 2 korrigiert.genruntimeconfig.cache
