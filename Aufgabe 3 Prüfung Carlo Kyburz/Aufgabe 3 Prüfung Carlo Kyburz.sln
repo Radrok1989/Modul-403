@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 3 Prüfung Carlo Kyburz", "Aufgabe 3 Prüfung Carlo Kyburz\Aufgabe 3 Prüfung Carlo Kyburz.csproj", "{D2B2993E-9F3B-405F-808C-79F540831BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B2993E-9F3B-405F-808C-79F540831BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B2993E-9F3B-405F-808C-79F540831BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B2993E-9F3B-405F-808C-79F540831BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B2993E-9F3B-405F-808C-79F540831BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD4F97C-4721-4B13-A393-9BF9CC1256D9}
+	EndGlobalSection
+EndGlobal
